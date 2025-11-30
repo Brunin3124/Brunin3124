@@ -1,6 +1,7 @@
-## Hi there 👋
+## Oi :) 👋
 
-I'm a data science student currently working on some data analysis projects in the healthcare field
+I'm a Computer Scientist student
+I do stuff
 <!--
 **Brunin3124/Brunin3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
